@@ -11,7 +11,8 @@ Enter the ingredients you have, and the app instantly suggests delicious recipes
 
 ## **Tech Stack:**
 - Category    ->	Tools 
-- Frontend    ->	React JS (Hooks, Components, State Management) 
+- Frontend    ->	React JS (Hooks, Components, State Management)
+- Text generation model ->  Mistral
 - Styling     ->	CSS 
 - Build Tool  ->	Vite / Create React App 
 - Deployment  ->	Netlify 
