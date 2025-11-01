@@ -10,19 +10,19 @@ Enter the ingredients you have, and the app instantly suggests delicious recipes
 5.Dynamic filtering — Finds the best matches based on user input.
 
 ## **Tech Stack:**
-Category    ->	Tools \
-Frontend    ->	React JS (Hooks, Components, State Management) \
-Styling     ->	CSS / Tailwind / Styled Components (based on your setup) \
-Build Tool  ->	Vite / Create React App \
-Deployment  ->	Netlify \
+- Category    ->	Tools \
+- Frontend    ->	React JS (Hooks, Components, State Management) \
+- Styling     ->	CSS / Tailwind / Styled Components (based on your setup) \
+- Build Tool  ->	Vite / Create React App \
+- Deployment  ->	Netlify 
 
 ## **Installation :**
-2️⃣ Install Dependencies: \
+2️⃣ Install Dependencies: 
 ```
 npm install
 ```
 
-4️⃣ Start the Development Server: \
+4️⃣ Start the Development Server: 
 ```
 npm run dev
 ```
