@@ -12,7 +12,7 @@ Enter the ingredients you have, and the app instantly suggests delicious recipes
 ## **Tech Stack:**
 - Category    ->	Tools 
 - Frontend    ->	React JS (Hooks, Components, State Management) 
-- Styling     ->	CSS / Tailwind  
+- Styling     ->	CSS 
 - Build Tool  ->	Vite / Create React App 
 - Deployment  ->	Netlify 
 
