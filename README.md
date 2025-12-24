@@ -10,9 +10,8 @@ Enter the ingredients you have, and the app instantly suggests delicious recipes
 5.Dynamic filtering — Finds the best matches based on user input.
 
 ## **Tech Stack:**
-- Category    ->	Tools 
 - Frontend    ->	React JS (Hooks, Components, State Management)
-- Text generation model ->  Mistral
+- chatCompletion model ->  Llama
 - Styling     ->	CSS 
 - Build Tool  ->	Vite / Create React App 
 - Deployment  ->	Netlify 
