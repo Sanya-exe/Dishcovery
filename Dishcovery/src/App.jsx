@@ -1,5 +1,5 @@
 import Header from "./Header"
-import Index from "./index.jsx"
+import Index from "./Index.jsx"
 export default function App() {
   return (
     <>
